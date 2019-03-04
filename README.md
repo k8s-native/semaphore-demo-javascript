@@ -1,3 +1,4 @@
+# Test
 # Semaphore demo CI/CD pipeline using JavaScript (Node.js, TypeScript, Nest.js, React)
 
 Example application and CI/CD pipeline showing how to run a JavaScript project
